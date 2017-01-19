@@ -18,3 +18,12 @@ Features
 8. Could be used as a simple file server also to support HTML5/JS based application backed by AJAX based service calls.
 9. Not tied to any specific front end technology. 
 10. Only one configuration file if java based action classes are used.
+
+Code download from GITHUB commands 
+
+```
+git init
+git remote add origin https://github.com/suddutt1/healthandlifeweb.git
+git pull origin master
+```
+
